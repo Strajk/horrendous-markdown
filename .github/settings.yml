@@ -1,0 +1,11 @@
+repository:
+  name: horrendous-markdown
+  description: Markdown as horrendous as possible. For testing linters & editors & willpower.
+
+  has_wiki: false
+
+  default_branch: master
+
+  allow_merge_commit: false
+  allow_squash_merge: false
+  allow_rebase_merge: true
