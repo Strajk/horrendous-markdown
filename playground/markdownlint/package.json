@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "lint": "TODO",
+    "lint:fix": "TODO"
+  },
+  "dependencies": {
+    "markdownlint": "latest",
+    "markdownlint-cli": "latest"
+  }
+}
